@@ -24,3 +24,6 @@ Some pages are created server-side with each request. Especially pages with dyna
 
 ## Preview
 
+![kayt1-ezgif com-video-to-gif-converter](https://github.com/serhatakhan/NextJs-MovieSite/assets/147662915/980310b8-c3fd-49bd-aa8e-77785514afeb)
+
+
